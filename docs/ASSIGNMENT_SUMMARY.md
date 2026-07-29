@@ -1,8 +1,8 @@
 # Supervised Machine Learning Assignment - Summary Report
 
-**Student**: [Your Name]  
+**Student**: Boateng Prince Agyenim
 **Course**: Data Science & Machine Learning  
-**Date**: January 29, 2026  
+**Date**: July 29, 2026  
 
 ---
 

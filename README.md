@@ -1,9 +1,9 @@
 # Supervised Machine Learning Assignment
 ## Complete Implementation with Regression and Classification
 
-**Course:** Data Science & Machine Learning  
-**Date:** January 29, 2026  
-**Author:** [Your Name]
+**Course:** Data Science & Machine Learning
+**Date:** July 29, 2026
+**Author:** Boateng Prince Agyenim
 
 ---
 
@@ -151,9 +151,6 @@ python src/advanced_tuning.py
 ---
 
 ## 📚 Documentation
-
-- **[QUICK_START.md](docs/QUICK_START.md)** - Get started in 3 steps
-- **[ASSIGNMENT_SUMMARY.md](docs/ASSIGNMENT_SUMMARY.md)** - Detailed results and analysis
 - **Jupyter Notebooks** - Interactive, step-by-step guides in `notebooks/`
 
 ---
@@ -286,7 +283,7 @@ For questions or issues:
 
 ---
 
-**Project Status:** ✅ Complete and Ready for Submission
+**Project Status:** Complete and Ready for Submission
 
 **Execution Time:** ~1 minute for complete workflow  
 **Lines of Code:** 800+ lines across all scripts  
