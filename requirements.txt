@@ -1,0 +1,28 @@
+# Supervised Machine Learning Assignment - Dependencies
+# Python 3.12+
+
+# Core Data Science Libraries
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Machine Learning
+scikit-learn>=1.3.0
+scipy>=1.11.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Model Persistence
+joblib>=1.3.0
+
+# Jupyter Notebooks
+jupyter>=1.0.0
+ipykernel>=6.25.0
+notebook>=7.0.0
+
+# Optional: Advanced Models (if using XGBoost)
+# xgboost>=1.7.0
+
+# Optional: Progress Bars
+# tqdm>=4.65.0
